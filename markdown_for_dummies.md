@@ -6,6 +6,5 @@
  - Try to stay focused on your code, but take breaks if needed.
  </br>
  
- ![Frustrated]
- (http://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2017/02/Frustrated-again.jpg)
+![Image of Frustrated](http://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2017/02/Frustrated-again.jpg)
  
