@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Code Learning Journal 
 
-You can use the [editor on GitHub](https://github.com/Alejandroid101/Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Learning how to code felt incredibly hard, but thanks to Code Fellows i am getting the hang of it
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently trying to start a new page about Markdown.
 
 ### Markdown
 
