@@ -6,6 +6,9 @@ A text editor is a software that allows you to write code. Some of them have dif
  - themes
  - the ability to use extentions
 
-There are many options for text editors out there. Try not to be overwhealmed by this, </br> just try a few, and stick to the one that gives you the best feel. There is no wrong choice, most text editors allow you add extensions to improve your experience.
+There are many options for text editors out there. Try not to be overwhealmed by this, just try a few, and stick to the one that gives you the best feel. There is no wrong choice, most text editors allow you add extensions to improve your experience.
 
+The next thing to consider is:
+>the best text editor is the one
+>that works best for YOU.
 
