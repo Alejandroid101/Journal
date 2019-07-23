@@ -12,3 +12,4 @@ The next thing to consider is:
 >the best text editor is the one
 >that works best for YOU.
 
+[**Go Back**](https://alejandroid101.github.io/Journal/)

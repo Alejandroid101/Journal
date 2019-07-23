@@ -8,4 +8,4 @@
  
 ![Image of Frustrated](http://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2017/02/Frustrated-again.jpg)
  
- 
+[**Go Back**](https://alejandroid101.github.io/Journal/)
