@@ -11,5 +11,7 @@ I have found that after taking code101 and looking at HTML and CSS, i don't like
 
 [**Text editor**](https://alejandroid101.github.io/Journal/Text_editor)
 
+### There is always room for Growth, don't get stuck!
+
 [**Growth Mindset**](https://alejandroid101.github.io/Journal/growth_mindset)
 
